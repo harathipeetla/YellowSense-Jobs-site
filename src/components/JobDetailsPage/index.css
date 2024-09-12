@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+
+.job-details-container{
+    border: 2px solid #76bbcc;
+
+    text-align: center;
+}
